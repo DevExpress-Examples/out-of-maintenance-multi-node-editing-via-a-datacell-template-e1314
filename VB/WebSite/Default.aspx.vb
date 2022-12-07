@@ -5,7 +5,7 @@ Imports System.Web
 Imports System.Web.UI
 Imports System.Web.UI.WebControls
 Imports DevExpress.Web.ASPxTreeList
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 
 Namespace WebApplication1
 	Partial Public Class _Default
